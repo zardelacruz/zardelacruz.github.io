@@ -2,18 +2,18 @@
 /* CSS Document */
 
 body {
-	background-color:#A1BBC7;
+	background-color: #EEEFEF;
 }
 
 div.title {
-		font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
-		color: teal;
-		font-size: 36px;
-		text-align: center;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	color: #FFB40E;
+	font-size: 36px;
+	text-align: center;
 	}	
 div.description {
-		font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
-		color:dimgray;
-		font-size: 15px;
-		text-align: center;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	color: #195C72;
+	font-size: 15px;
+	text-align: center;
 	}
