@@ -1,36 +1,43 @@
 @charset "UTF-8";
 /* CSS Document */
 body {
-    background-color: goldenrod;
+    background-color: #FFFFFF;
     width: auto;
-    margin-top: 200px;
+    margin-top: 50px;
+}
+#logo_btn {
+    float: left;
+    margin-left: 30px;
 }
 
 h1 {
-	
-	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
-	font-size: 40px;
-	text-align: center;
-	color: beige;
-
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+    font-size: 40px;
+    text-align: center;
+    color: #27A7B8;
 }
 
 
 
 nav {
-    margin-top: auto;
-    margin-right: auto;
-    margin-bottom: auto;
-    margin-left: auto;
-    text-align: center;
+    text-align: right;
+    padding-top: 15px;
+    padding-right: 30px;
 }
-button {
-    padding-top: 5px;
-    padding-right: 5px;
-    padding-bottom: 5px;
-    padding-left: 5px;
-    margin-top: 5px;
-    margin-right: 5px;
-    margin-bottom: 5px;
-    margin-left: 5px;
+a:link {
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	font-size: 14px;
+	font-weight: 300;
+	text-decoration: none;
+}
+
+header {
+    margin-top: 100px;
+}
+#brief_descrpt {
+    text-align: center;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 20px;
 }
