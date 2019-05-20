@@ -1,0 +1,50 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+    background-color: #FFFFFF;
+    width: auto;
+    margin-top: 50px;
+    margin-right: auto;
+    margin-bottom: 0px;
+    margin-left: auto;
+}
+#logo_btn {
+    float: left;
+    margin-left: 30px;
+}
+nav {
+    text-align: right;
+    padding-top: 15px;
+    padding-right: 30px;
+    font-size: 15px;
+    font-weight: 300;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+#main_container {
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    height: 1080px;
+}
+a:link {
+    text-decoration: none;
+    color: #176671;
+}
+header {
+    margin-top: 100px;
+}
+#brief_descrpt {
+    text-align: center;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 20px;
+}
+h1 {
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+    font-size: 40px;
+    text-align: center;
+    color: #27A7B8;
+}
